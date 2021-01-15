@@ -4,6 +4,6 @@
 
 
 
-💼 Actuellement Développeur Front-End @franceatelier 📍 Grenoble 
+💼 Actuellement Développeur Front-End Junior @franceatelier 📍 Grenoble 
 
 🌱 En ce moment j'apprends : VueJS, mongoDB, Javascript
