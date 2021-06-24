@@ -5,4 +5,6 @@
 
 💼 Actuellement Développeur Front-End Junior @keybas 📍 Grenoble 
 
+🦊 [Gitlab](https://gitlab.com/raphaeldamevin)
+
 🌱 En ce moment j'apprends : Javascript, VueJS, React
