@@ -7,4 +7,6 @@
 
 🦊 [Gitlab](https://gitlab.com/raphaeldamevin)
 
-🌱 En ce moment j'apprends : Javascript, VueJS, React
+🎓 VueJS
+
+🌱 En ce moment j'apprends : Svelte, React
