@@ -1,5 +1,5 @@
 # 💫About Me :
-👨🏻‍💻 My name is Raphaël and i'm 23, i leave in France
+👨🏻‍💻 My name is Raphaël and i'm 23 !
 
 ⚡️ I always looking for helping others with Javascript, React, Vue.js
 
