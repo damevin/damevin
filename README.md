@@ -1,7 +1,7 @@
 # Hello 👋
 
 - I'm Raphaël, I currently live in **Grenoble, FR**
-- I work @keybas as front-end lead developer
+- I work [@keybas](https://github.com/keybas-engineering) as front-end lead developer
 - My programming languages are : Javascript/Typescript
 - My favorite framework is Svelte, but I enjoy Vue.js too
 - This year, I want to learn C# and game programming with unity on my side-projects
