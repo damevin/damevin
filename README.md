@@ -1,10 +1,10 @@
 # Hello 👋
 
-- I'm Raphaël, I currently live in **Grenoble, FR**
-- I'm a Freelance Front-End Developer
+- I'm Raphaël, I currently live in **Grand Bay, Mauritius**
+- I work @LeHibou as a front-end developer
 - My programming languages are : Javascript/Typescript
 - My favorite framework is Svelte, but I enjoy Vue.js too
-- This year, I want to learn C# and game programming with unity on my side-projects
+- This year, I want to Nuxt3, and improve me on Vue3
 
 ## Certifications 📚
 
