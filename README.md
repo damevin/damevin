@@ -19,7 +19,3 @@
 - [Twitch](https://twitch.tv/LeVraiRaphael)
 - [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/rapha%C3%ABl-damevin-8b14691a9/)
 - [Medium](https://medium.com/@raphaeldamevin)
-
-## Time coding data only for flexing
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@raphaeldmvn/02e51758-e940-4ed4-b9be-b1907d755c8d.png" style="width:500px" /></a>
