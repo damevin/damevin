@@ -1,7 +1,7 @@
 # Hello 👋
 
-- I'm Raphaël, I currently live in **Grand Bay, Mauritius**
-- I work [@LeHibou](https://lehibou.com) as a front-end developer
+- I'm Raphaël, I currently live in **Mauritius 🇲🇺 **
+- I work [@Livestorm](https://livestorm.co) as a Senior Front-end Engineer
 - My programming languages are : Javascript/Typescript
 - I use Vue.js and Nuxt3 every day 😳
 
